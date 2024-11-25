@@ -17,4 +17,4 @@ root.render(
     <Global />
     <App />
   </React.StrictMode>
-);
+); // new comment
